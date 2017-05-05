@@ -20,6 +20,8 @@ import org.springframework.web.servlet.ModelAndView;
  */
 @Controller
 public class HomeController {
+	
+	//add comments
 
 	private static final Logger logger = LoggerFactory
 			.getLogger(HomeController.class);
