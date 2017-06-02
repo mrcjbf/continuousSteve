@@ -1,4 +1,4 @@
-package testcases;
+package com.chris.example.contactapp;
 
 import org.junit.Before;
 
