@@ -1,5 +1,16 @@
 package testcases;
 
+import org.junit.Before;
+
 public class sel_test1 {
+	
+	public static void main(String[] args){
+		
+	}
+	
+	@Before
+	public void setup(){
+		
+	}
 
 }
