@@ -166,6 +166,7 @@
 		</repository>
 	</repositories>
 	<build>
+	    <finalName>contactapp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
